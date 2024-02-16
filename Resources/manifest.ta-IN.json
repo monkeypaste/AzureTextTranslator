@@ -1,0 +1,12 @@
+{
+  "title": "அசூர் உரை மொழிபெயர்ப்பாளர்",
+  "description": "குறிப்பிட்ட அல்லது தானாக கண்டறியப்பட்ட மொழியிலிருந்து எழுதப்பட்ட உரையின் மொழிபெயர்ப்பு. அசூர் அறிவாற்றல் சேவைகளைப் பயன்படுத்துதல்",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "மொழி மொழிபெயர்ப்பாளர், அணுகல், உரை, மைக்ரோசாப்ட், அஸூர்"
+}

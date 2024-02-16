@@ -1,0 +1,12 @@
+{
+  "title": "അസുർ ടെക്സ്റ്റ് വിവർത്തകൻ",
+  "description": "നിർദ്ദിഷ്ട അല്ലെങ്കിൽ യാന്ത്രികമായി കണ്ടെത്തിയ ഭാഷയിൽ നിന്ന് രേഖാമൂലമുള്ള വാചകത്തിന്റെ വിവർത്തനം. അസുർ കോഗ്നിറ്റീവ് സേവനങ്ങൾ ഉപയോഗിക്കുന്നു",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "ഭാഷാ പരിഭാഷകൻ, പ്രവേശനക്ഷമത, വാചകം, മൈക്രോസോഫ്റ്റ്, അസുഫ്റ്റ്"
+}

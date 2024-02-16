@@ -1,0 +1,12 @@
+{
+  "title": "Azure متن مترجم",
+  "description": "مخصوص یا آٹو کھوج والی زبان سے تحریری متن کا ترجمہ۔ Azure علمی خدمات کا استعمال",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "زبان مترجم ، رسائ ، متن ، مائیکروسافٹ ، Azure"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Azure Text Translator",
+  "description": "지정된 또는 자동 검출 된 언어에서 서면 텍스트의 번역. Azure Cognitive Services 사용",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "언어 번역기, 접근성, 텍스트, Microsoft, Azure"
+}

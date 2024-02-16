@@ -1,0 +1,12 @@
+{
+  "title": "Azure पाठ अनुवादक",
+  "description": "निर्दिष्ट गरिएको वा स्वत: पत्ता लगाउने भाषाबाट लिखित पाठको अनुवाद। Azure संज्ञानात्मक सेवाहरूको प्रयोग गर्दै",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "भाषा अनुवादक, पहुँच, पाठ, माइक्रोसफ्ट, एजर"
+}

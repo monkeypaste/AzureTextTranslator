@@ -1,0 +1,12 @@
+{
+  "title": "అజూర్ టెక్స్ట్ అనువాదకుడు",
+  "description": "పేర్కొన్న లేదా స్వయంచాలక భాష నుండి వ్రాతపూర్వక వచనం యొక్క అనువాదం. అజూర్ కాగ్నిటివ్ సేవలను ఉపయోగించడం",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "భాషా అనువాదకుడు, ప్రాప్యత, వచనం, మైక్రోసాఫ్ట్, అజూర్"
+}

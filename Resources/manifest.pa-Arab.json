@@ -1,0 +1,12 @@
+{
+  "title": "ਅਜ਼ੂਰ ਟੈਕਸਟ ਅਨੁਵਾਦਕ",
+  "description": "ਨਿਰਧਾਰਤ ਜਾਂ ਸਵੈ-ਖੋਜਿਆ ਭਾਸ਼ਾ ਤੋਂ ਲਿਖਤ ਪਾਠ ਦਾ ਅਨੁਵਾਦ. ਅਜ਼ੂਰ ਬੋਧਿਕ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨਾ",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "ਭਾਸ਼ਾ ਅਨੁਵਾਦਕ, ਪਹੁੰਚਯੋਗਤਾ, ਟੈਕਸਟ, ਮਾਈਕ੍ਰੋਸਾੱਫਟ, ਅਜ਼ੂਰ"
+}

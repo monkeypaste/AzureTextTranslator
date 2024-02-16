@@ -1,0 +1,12 @@
+{
+  "title": "एज़्योर पाठ अनुवादक",
+  "description": "निर्दिष्ट या ऑटो-डिटेक्टेड भाषा से लिखित पाठ का अनुवाद। एज़्योर संज्ञानात्मक सेवाओं का उपयोग करना",
+  "version": "1.0.2.0",
+  "author": "Monkey",
+  "guid": "c80163e4-66b6-4845-ba11-de182b9f8a62",
+  "readmeUrl": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/README.md",
+  "projectUrl": "https://github.com/monkeypaste/AzureTextTranslator",
+  "packageUrl": "https://github.com/monkeypaste/AzureTextTranslator/releases/download/v1.0.2.0/v1.0.2.0.zip",
+  "iconUri": "https://raw.githubusercontent.com/monkeypaste/AzureTextTranslator/master/icon.png",
+  "tags": "भाषा अनुवादक, पहुंच, पाठ, Microsoft, Azure"
+}
