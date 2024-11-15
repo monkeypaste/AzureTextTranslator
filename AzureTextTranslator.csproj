@@ -3,9 +3,6 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <EnableDynamicLoading>true</EnableDynamicLoading>
-    <RunPostBuildEvent>Always</RunPostBuildEvent>
-    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
-    <Platforms>$(DefaultPlatforms)</Platforms>
     <LangVersion>Latest</LangVersion>
   </PropertyGroup>
 
@@ -17,6 +14,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  
   <ItemGroup>
     <Content Include="icon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -53,13 +51,4 @@
       <CustomToolNamespace>AzureTextTranslator</CustomToolNamespace>
     </EmbeddedResource>
   </ItemGroup>
-
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent" Condition="'$(PushPlugins)' == 'True'">
-    <ItemGroup>
-      <BuildFiles Include="$(TargetDir)\*.*" />
-      <ProjectFiles Include="$(ProjectDir)\*.*" />
-    </ItemGroup>
-    <Copy SourceFiles="@(BuildFiles)" DestinationFolder="$(PluginTargetDir)\$(ProjectName)\" OverwriteReadOnlyFiles="true" SkipUnchangedFiles="true" ContinueOnError="true" />
-    <Copy SourceFiles="@(ProjectFiles)" DestinationFolder="$(PluginTargetDir)\$(ProjectName)\" OverwriteReadOnlyFiles="true" SkipUnchangedFiles="true" ContinueOnError="true" />
-  </Target>
 </Project>
